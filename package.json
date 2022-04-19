@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/miguel-javela/jsnpm#readme",
   "dependencies": {
-    "json-server": "^0.15.0",
     "moment": "^2.29.3"
   },
   "devDependencies": {
