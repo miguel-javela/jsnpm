@@ -22,10 +22,12 @@
   },
   "homepage": "https://github.com/miguel-javela/jsnpm#readme",
   "dependencies": {
+    "json-server": "^0.15.0",
     "moment": "^2.29.3"
   },
   "devDependencies": {
-    "date-fns": "^2.28.0"
+    "date-fns": "^2.28.0",
+    "webpack": "^5.72.0"
   },
   "optionalDependencies": {
     "eslint": "^8.13.0"
