@@ -1,0 +1,33 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "construir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-javela/jsnpm.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "node",
+    "package"
+  ],
+  "author": "mMiguel Javela <migueljavela2014@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguel-javela/jsnpm/issues"
+  },
+  "homepage": "https://github.com/miguel-javela/jsnpm#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "date-fns": "^2.28.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.13.0"
+  }
+}
